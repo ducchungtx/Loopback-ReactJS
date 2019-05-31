@@ -1,0 +1,7 @@
+{
+  "db": {
+    "url": "mongodb://chung:myhanh123@ds263436.mlab.com:63436/meetupz-app",
+    "name": "db",
+    "connector": "loopback-connector-mongodb"
+  }
+}
